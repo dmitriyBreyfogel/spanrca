@@ -1,10 +1,10 @@
-package com.dmitriybreyfogel.spanrca;
+package com.dmitriybreyfogel.spanrca.topology;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpanrcaApplicationTests {
+class TopologyServiceApplicationTests {
 
     @Test
     void contextLoads() {

@@ -1,13 +1,13 @@
-package com.dmitriybreyfogel.spanrca;
+package com.dmitriybreyfogel.spanrca.topology;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpanrcaApplication {
+public class TopologyServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpanrcaApplication.class, args);
+        SpringApplication.run(TopologyServiceApplication.class, args);
     }
 
 }
