@@ -1,1 +1,3 @@
 rootProject.name = 'spanrca'
+
+include('services:topology-service')
